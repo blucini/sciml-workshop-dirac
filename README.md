@@ -21,6 +21,7 @@ Practical notebooks for the SciML workshop
 
 ## Authors
 Keith Butler<sup>1</sup>, Kuangdai Leng<sup>1</sup>, Sam Jackson<sup>1</sup>, Jeyan Thiyagalingam<sup>1</sup>
+Mark Wilkinson<sup>2</sup>, Richard Regan<sup>2</sup> and Clare Jenner<sup>2</sup>
 
-*<sup>1</sup> Scientific Machine Learning (SciML) Group, Scientific Computing Department, Science and Technology Facilities Council* 
-
+*<sup>1</sup> Scientific Machine Learning (SciML) Group, Scientific Computing Department, Science and Technology Facilities Council* <br />
+*<sup>2</sup> Distributed Research utilising Advanced Computing Community*
